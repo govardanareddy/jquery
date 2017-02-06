@@ -1,7 +1,7 @@
 define( [
-	"./class2type"
-], function( class2type ) {
+	"./classtype"
+], function( classtype ) {
 	"use strict";
 
-	return class2type.toString;
+	return classtype.toString;
 } );
